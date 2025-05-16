@@ -4,8 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ce55d50-dc69-41dc-8dce-befc44f0bef7" name="Changes" comment="Lightgmb">
+    <list default="true" id="3ce55d50-dc69-41dc-8dce-befc44f0bef7" name="Changes" comment="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;code.ipynb">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_08_05_2025_15_44_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_08_05_2025_15_44__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_09_05_2025_08_55_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_09_05_2025_08_55__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/code.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +90,7 @@
       <workItem from="1747076202602" duration="806000" />
       <workItem from="1747125726145" duration="12586000" />
       <workItem from="1747232105853" duration="297000" />
-      <workItem from="1747232683192" duration="4226000" />
+      <workItem from="1747232683192" duration="17805000" />
     </task>
     <task id="LOCAL-00001" summary="Lightgbm">
       <option name="closed" value="true" />
@@ -215,7 +220,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747293804037</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;code.ipynb">
+      <option name="closed" value="true" />
+      <created>1747293887399</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1747293887399</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -251,8 +264,8 @@
     <MESSAGE value="added sections for diffrent machine learning algorithms" />
     <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
     <MESSAGE value="Lightgbm" />
-    <MESSAGE value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;code.ipynb" />
     <MESSAGE value="Lightgmb" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lightgmb" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;code.ipynb" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;code.ipynb" />
   </component>
 </project>
