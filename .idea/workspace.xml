@@ -7,6 +7,7 @@
     <list default="true" id="3ce55d50-dc69-41dc-8dce-befc44f0bef7" name="Changes" comment="Neural network">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/code.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/code.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/confusion_matrix.png" beforeDir="false" afterPath="$PROJECT_DIR$/confusion_matrix.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +94,8 @@
       <workItem from="1747640647214" duration="665000" />
       <workItem from="1747655192026" duration="2733000" />
       <workItem from="1747660224651" duration="2241000" />
-      <workItem from="1747678907328" duration="10480000" />
+      <workItem from="1747678907328" duration="14411000" />
+      <workItem from="1747825551666" duration="8023000" />
     </task>
     <task id="LOCAL-00001" summary="Lightgbm">
       <option name="closed" value="true" />
@@ -303,7 +305,23 @@
       <option name="project" value="LOCAL" />
       <updated>1747661960200</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Neural network">
+      <option name="closed" value="true" />
+      <created>1747730580864</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1747730580864</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Neural network">
+      <option name="closed" value="true" />
+      <created>1747730675923</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1747730675923</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -364,5 +382,6 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Group_Project_Diabetes$skeleton.coverage" NAME="skeleton Coverage Results" MODIFIED="1747578352205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/Foundation of Data Science/hw05/code" />
+    <SUITE FILE_PATH="coverage/code_ipynb$skeleton.coverage" NAME="skeleton Coverage Results" MODIFIED="1747733511983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/Foundation of Data Science/hw05/code" />
   </component>
 </project>
