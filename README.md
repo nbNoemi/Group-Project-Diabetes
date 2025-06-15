@@ -1,8 +1,7 @@
 # Group-Project-Diabetes
-This repository contains the work of group 21 consisting of Janet Patrizio, Noah Planzi, Oliver Perozzi and Noemi Brenner. Each of the 4 models has its own script and the order is as follows: 
-  - code.ipynb
-  - LR.ipynb
-  - Decison tree.ipynb
-  - Random Forest.ipynb
-  - Neural_network.ipynb
-
+This repository contains the work of group 21 consisting of Janet Patrizio, Noah Planzi, Oliver Perozzi and Noemi Brenner. Within the project there are four scripts for the models (one for each model) and one script for data exploration. The models used are:
+- logistic regression
+- decision tree
+- random forest
+- neural network.
+In addition, there is also a further script with additional models that were tested along the way.
