@@ -4,4 +4,5 @@ This repository contains the work of group 21 consisting of Janet Patrizio, Noah
 - decision tree
 - random forest
 - neural network.
+
 In addition, there is also a further script with additional models that were tested along the way. The final scrips are stored in the Code folder.
